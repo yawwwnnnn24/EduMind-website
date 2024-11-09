@@ -1,0 +1,62 @@
+body{
+    display: block;
+    margin: 25;
+}
+
+.image{
+    text-align: center;
+    align-items: center top;
+}
+
+h1{
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+    font-family: Georgia;
+}
+
+.comment {
+    color: black;
+    margin: 20px auto;
+    font-size: large;
+    font-family: Georgia;
+    text-align: center;
+}
+
+.input{
+    margin: 30px auto;
+    width: 300px;
+    background-color: bisque;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 3px burlywood inset;
+    padding: 30px;
+    font-size: larger;
+}
+
+p{
+
+    color: black;
+    font-size: large;
+    font-family: Georgia;
+    text-align: center;
+    
+}
+
+.account{
+    color: black;
+    font-size: large;
+    font-family: Georgia;
+    text-align-last: center;
+}
+
+.all{
+    display: block;
+    width: 50%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    border: 2px  ridge beige ;
+    padding: 10px 15px 10px 15px ;
+    background-color: beige;
+
+}
